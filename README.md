@@ -13,12 +13,12 @@ For each exercise:
 
 1. [Permission Set Groups & Restriction Rules](https://www.platformdemos.com/s/demo/a0g4p000004hejUAAQ/permission-set-groups-restriction-rules)
 2. [How to Strengthen Your Data Governance with Event Monitoring](https://www.platformdemos.com/s/demo/a0g4p0000040sqnAAA/how-to-strengthen-your-data-governance-with-event-monitoring)
-3. [How to Automate Business Processes with Flow Builder](https://www.platformdemos.com/s/demo/a0g4p0000040pCkAAI/how-to-automate-business-processes-with-flow-builder)
+
 
 
 
 Optional:</br>
-[Orchestrate Large-Scale Incidents with Flow Orchestration](https://www.platformdemos.com/s/demo/a0g4p000004i5mJAAQ/orchestrate-largescale-incidents-with-flow-orchestration)</br>
+
   ***NOTE:***  [Use ***this*** Guide](https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Workshop%20Flow%20Orchestration%20_Hands-On_%20Campfire.pdf)
 <br/>
 
