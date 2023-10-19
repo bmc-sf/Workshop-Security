@@ -20,8 +20,10 @@ For each exercise:
 Optional:</br>
 [Data Mask](https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)
 <br/>
-***NOTE:***  [Use ***this*** Guide](https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Workshop%20Flow%20Orchestration%20_Hands-On_%20Campfire.pdf)
+<!--
+***NOTE:***  [Use ***this*** Guide]()
 <br/>
+-->
 
 
 <br/><br/><br/>
