@@ -16,7 +16,7 @@ For each exercise:
 
 
 
-
+<br/>
 Optional:</br>
 [Data Mask](https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)
 <br/>
@@ -26,7 +26,7 @@ Optional:</br>
 -->
 
 
-<br/><br/><br/>
+<br/><br/>
 ------------------------
 [platformdemos.com](https://platformdemos.com)<br/>
 [GitHub](https://github.com/bmc-sf/Workshop-Security)<br/>
