@@ -17,7 +17,8 @@ For each exercise:
 
 
 <br/>
-**Optional:**</br>
+**Optional**
+</br>
 Data Mask (https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)
 <br/>
 <!--
