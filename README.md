@@ -9,19 +9,16 @@ For each exercise:
 * Click **Create New Demo Org**
 * Click **Read the Guide**</br>
 ***NOTE:***  Leave the **Salesforce DX Public Deployer** tab **Open** for later use
-<br/>
-
+  
 1. [Permission Set Groups & Restriction Rules](https://www.platformdemos.com/s/demo/a0g4p000004hejUAAQ/permission-set-groups-restriction-rules)
 2. [How to Strengthen Your Data Governance with Event Monitoring](https://www.platformdemos.com/s/demo/a0g4p0000040sqnAAA/how-to-strengthen-your-data-governance-with-event-monitoring)
+3. [Real-Time Event Monitoring](https://github.com/bmc-sf/Workshop-Security)
 
 
+     
+  **Optional:**
+[Data Mask](https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)  
 
-<br/>
-Optional:
-</br>
-Data Mask (https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)
-
-<br/>
 <!--
 ***NOTE:***  [Use ***this*** Guide]()
 <br/>
