@@ -1,5 +1,7 @@
+# Data Cloud & Security Workshop
+<!-- 
 # Security Awareness & Health Check Workshop
-
+-->
 <img src="https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Salesforce_Technical_Architects_Logo.png" alt="alt text" width="200" height="100">
 <!-- https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/home/logo-salesforce.svg -->
 
