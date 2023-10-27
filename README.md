@@ -24,7 +24,7 @@ For each exercise:
 
 <br/><br/>  
   **Optional:**
-<br/><a href="https://salesforce.quip.com/K4EaA9HDRUw9" target="_blank">Data Cloud - Getting Started Again</a><br/>
+
 [Data Cloud - Getting Started](https://salesforce.quip.com/K4EaA9HDRUw9)
 
 [Data Mask](https://www.platformdemos.com/s/demo/a0g4p0000040dOzAAI/data-mask)  
